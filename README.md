@@ -5,8 +5,8 @@
 The following tools help make easier to work with sample code.
 
 - [git](https://git-scm.com/downloads): A tool for managing source code
-- [Visual Studio Code](https://code.visualstudio.com/): A source code editor
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): A simple web server utility for Visual Studio Code
+- [Visual Studio Code](https://www.sublimetext.com/): A source code editor
+- [Live Server](https://www.apachefriends.org/): A simple local web server utility for Sublime code
 - [Echo Post](https://github.com/craigshoemaker/echo-post): A simple Node.js server utility that displays post data.
 
 ## Setup
