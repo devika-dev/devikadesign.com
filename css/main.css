@@ -2769,6 +2769,7 @@ a.item-feature-c {
   color: currentColor;
   text-decoration: none;
   position: relative;
+    text-align: center;
   display: block; }
   .item-image-b::before {
     content: '';
